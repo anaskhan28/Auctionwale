@@ -3,12 +3,12 @@ import {
   CollapsibleTrigger,
   CollapsibleContent,
 } from "@/components/ui/collapsible";
-import BackgroundDots from "../Hero/BackgroundDots";
+//import BackgroundDots from "../Hero/BackgroundDots";
 
 export function FAQ() {
   return (
     <>
-      <BackgroundDots />
+      {/*<BackgroundDots />*/}
       <section className="bg-background text-foreground py-12 md:py-16">
         <div className="container mx-auto mt-8 max-w-4xl px-4 md:px-6 ">
           <div className="grid gap-8">

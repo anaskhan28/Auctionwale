@@ -34,7 +34,7 @@ const Footer = () => {
                 </p>
                 <div className="flex items-center">
                 <a
-  href="https://www.instagram.com/"
+  href="https://www.instagram.com/auctionwale.in/"
   aria-label="social-link"
   target="_blank"
   rel="noopener noreferrer"
@@ -81,7 +81,7 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
+                    href="/" //youtube Link will be pasted here if channel will be created
                     aria-label="social-link"
                     target="_blank"
                     rel="noopener noreferrer"

@@ -18,7 +18,7 @@ const PropertyData = ({ imageUrl, price, name, location }) => {
   };
 
   const handleInterest = () => {
-    window.open("https://chat.whatsapp.com/Bh7uQqk4hEa4Q9kfspPP9O", "_blank");
+    window.open("https://wa.me/917030304717?text=Hello!%20I%20would%20like%20to%20chat.", "_blank");
 
     console.log("Interested!");
   };
